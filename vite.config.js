@@ -1,3 +1,3 @@
 export default {
-  base: "/photoquizz",
+  base: "/photoquizz/",
 };
